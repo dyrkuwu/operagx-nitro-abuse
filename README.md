@@ -1,4 +1,4 @@
-# operagx-nitro-abuse
+# operagx-nitro-abuse (not working anymore :c)
 this repo was made in pure hatred for opera gx as a browser
 
 abusing opera's free nitro campaign to generate infinite nitro codes
